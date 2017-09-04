@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="05.1.css"?>
+
+<contactList>
+  <contact id="001" nm="552976">
+    <name>Joah</name>
+    <age>20</age>
+    <phone>13224567890</phone>
+    <email>qwer@asdf.com</email>
+    <qq>102938475</qq>
+  </contact><![CDATA[	what's the fk;]]><![CDATA[    fuck]]>
+  <contact id="002">
+    <name>Summering</name>
+    <age>22</age>
+    <phone>152555555555</phone>
+    <email>Summering@joah.com</email>
+    <qq>sk</qq>
+  </contact>
+</contactList>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students> 
+  <student id="001"> 
+    <name>Summering</name>  
+    <age>22</age>  
+    <email>Summering@joah.com</email>  
+    <address>joah pro</address> 
+  </student> 
+</students>
